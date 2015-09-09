@@ -27,4 +27,7 @@ proguard/
 *.log
 
 # Properties Files
-*.properties 
+*.properties
+
+# bak Files
+*.bak
